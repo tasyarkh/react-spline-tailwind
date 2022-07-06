@@ -39,7 +39,7 @@ function Contact() {
 
              <p className='text-lg text-txt group-hover:text-white'>Dribbble</p>
            </motion.a>
-           <motion.a whileTap={{scale: 0.8}} href='#' className='w-200 md:w-auto px-3 md:px-8 py-5 border-y-2 border-decThree rounded-2xl hover:border-decOne hover:shadow-md hover:font-semibold  hover:shadow-decTwo duration-100 ease-in-out cursor-pointer flex items-center justify-center gap-3 group'>
+           <motion.a whileTap={{scale: 0.8}} href='mailto:tasyaramadhinta@gmail.com' className='w-200 md:w-auto px-3 md:px-8 py-5 border-y-2 border-decThree rounded-2xl hover:border-decOne hover:shadow-md hover:font-semibold  hover:shadow-decTwo duration-100 ease-in-out cursor-pointer flex items-center justify-center gap-3 group'>
 
              <IoMailOutline className='text-txt text-3xl cursor-pointer group-hover:text-white'/>
 
